@@ -1,6 +1,12 @@
 body{
 	background-color: #eef8ff;
 }
+.text-muted{
+	color: #5a5f69 !important;
+}
+
+
+}
 .textgrid{
 	padding: 0px 50px;
 	display: grid;
