@@ -191,7 +191,7 @@ h1{
 }
 
 input[type=submit] {
-	background-color: #58aae0;
+	background-color: rgb(70, 70, 255);
 	color: white;
 	padding: 14px 20px;
 	margin: 8px 0;
